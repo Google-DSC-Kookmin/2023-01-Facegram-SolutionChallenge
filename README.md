@@ -13,15 +13,15 @@ Our application Facegram can generate a montage to show a sketch
 <summary>
 Number 11, 16 from 17 GOALS
 </summary>
-    
+
 - <b>Goal 16</b>
 
-    Facegram is made to solve a ***Residential Envrionment Crime***.  
+    Facegram is made to solve a ***Residential Envrionment Crime***.
     It can create a safer residential environment in relation to urban crime.
 
 - <b>Goal 17</b>
 
-    Facegram can rebuild ***existing criminal image Databases*** and create ***Efficient Montage***.  
+    Facegram can rebuild ***existing criminal image Databases*** and create ***Efficient Montage***.
     It is expected to help solving ***missing cases*** and ***suspect prediction***.
 
 <br/>
@@ -32,7 +32,7 @@ Number 11, 16 from 17 GOALS
 
 #### 1. Generate Face Montage With Keywords.
 
--   Facegram generate a new ***montage with several keywords***.    
+-   Facegram generate a new ***montage with several keywords***.
 -   Parameter: age, gender, face, hair, eyebrows, eyes, nose, mouth
 
 <br/>
@@ -47,9 +47,9 @@ Number 11, 16 from 17 GOALS
 
 ## Scenario
 <b>This Solution can be used</b>
-1. ***Creating Montage*** based on Witness Testimony / Explanation  
-2. ***Rebuild*** existing Crimninal Image ***Databases*** and create efficient Montage  
-3. Public purpose like ***Face Recognition, Face Assume, Arrest Criminal, Search for Missing Persons*** etc..  
+1. ***Creating Montage*** based on Witness Testimony / Explanation
+2. ***Rebuild*** existing Crimninal Image ***Databases*** and create efficient Montage
+3. Public purpose like ***Face Recognition, Face Assume, Arrest Criminal, Search for Missing Persons*** etc..
 
 <br/>
 
@@ -65,8 +65,8 @@ Number 11, 16 from 17 GOALS
 ## How to run Code
 - Frontend:  Be sure to install node js and react native settings before starting.
 ```npm start``` will run the application.
-- Backend: First, you have to run Mysql database using dockerfile inside source code.  
-           After then you can run Spring Framework code using some IDEs like IntelliJ.  
+- Backend: First, you have to run Mysql database using dockerfile inside source code.
+           After then you can run Spring Framework code using some IDEs like IntelliJ.
 - A.I: Run the notebook file named ***"test.ipynb"*** in the order of its cells, one after the other.
 
 <br/>
@@ -74,6 +74,6 @@ Number 11, 16 from 17 GOALS
 ## Presetation Video
 
 <img width='700' src="https://user-images.githubusercontent.com/75362328/230445740-628f9cc5-8303-4b32-905d-31a05d2f727b.png">
-     
+
 [***Video Link***](https://www.youtube.com/watch?v=xU9mHc9CN-M&t=1s)
 
